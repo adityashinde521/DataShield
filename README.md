@@ -1,6 +1,6 @@
 # DataShield
-![DATA_SHIELD_LOGO](https://user-images.githubusercontent.com/53514944/118562605-9f3ee080-b78a-11eb-81b0-34b462d09d55.png =100x20)
-
+![DATA_SHIELD_LOGO](https://user-images.githubusercontent.com/53514944/118562605-9f3ee080-b78a-11eb-81b0-34b462d09d55.png)
+<img src="https://user-images.githubusercontent.com/53514944/118562605-9f3ee080-b78a-11eb-81b0-34b462d09d55.png" width="200">
 
 The methodology used in this code is to produce a simple and secure solution for 
 encryption of files using #AES and #XOR algorithm.
