@@ -1,1 +1,3 @@
 # DataShield
+
+[LICENSE](LICENSE)
