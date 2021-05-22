@@ -14,6 +14,8 @@ encryption of files using #AES and #XOR algorithm.
 
 - Aditya Shinde <adityashinde.0405@gmail.com>
 - Ajit Kumar <ajitbest7739@gmail.com>
+- Abdul Moghni <abdulmoghni007@gmail.com>
+
 
 ---
 ## License and Copyright
