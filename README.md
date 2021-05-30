@@ -1,8 +1,11 @@
 # DataShield
 <img src="https://user-images.githubusercontent.com/53514944/118562605-9f3ee080-b78a-11eb-81b0-34b462d09d55.png" width="400">
 
-The methodology used in this code is simple and secure solution for 
-encryption of files using #AES and #XOR algorithm.
+This project intends to protect user’s data, it stores files in encrypted format in device provided the passcode and path of the file.
+AES and XOR Encryption has been used in this project.
+The project has released in two models : CLI and GUI.
+For GUI version visit <https://github.com/adityashinde521/DataShield-GUI> 
+
 
 ---
 
