@@ -4,7 +4,7 @@
 This project intends to protect user’s data, it stores files in encrypted format in device provided the passcode and path of the file.
 AES and XOR Encryption has been used in this project.
 The project has released in two models : CLI and GUI.
-For GUI version visit [https://github.com/adityashinde521/DataShield-GUI](Data Shield-GUI)
+GUI <https://github.com/adityashinde521/DataShield-GUI>
 
 
 ---
