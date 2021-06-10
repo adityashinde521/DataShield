@@ -6,7 +6,7 @@ AES and XOR Encryption has been used in this project.
 The project has released in two models : CLI and GUI.
 GUI <https://github.com/adityashinde521/DataShield-GUI>
 
-## PreQuirement of System:-
+## Pre-Reuirement of System:-
 Install python 3
 Install pycryptAes module of python
 
