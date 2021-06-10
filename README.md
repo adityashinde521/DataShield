@@ -27,5 +27,8 @@ GUI <https://github.com/adityashinde521/DataShield-GUI>
 
 © Aditya Shinde, Chandigarh University
 © Ajit Kumar, Chandigarh University
+© Abdul Moghni ,Chandigarh University
+© Satyam Kumar ,Chandigarh University
+© Shubham Singh ,Chandigarh University
 
 License under MIT [License](LICENSE)
