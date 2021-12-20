@@ -6,7 +6,7 @@ AES and XOR Encryption has been used in this project.
 The project has released in two models : CLI and GUI.
 GUI <https://github.com/adityashinde521/DataShield-GUI>
 
-## Pre-Reuirement of System:-
+## Pre-Requirement of System:-
 - Install python 3
 - Install pycryptAes module of python
 
@@ -31,9 +31,13 @@ GUI <https://github.com/adityashinde521/DataShield-GUI>
 ## License and Copyright
 
 © Aditya Shinde, Chandigarh University
+
 © Ajit Kumar, Chandigarh University
+
 © Abdul Moghni ,Chandigarh University
+
 © Satyam Kumar ,Chandigarh University
+
 © Shubham Singh ,Chandigarh University
 
 License under MIT [License](LICENSE)
